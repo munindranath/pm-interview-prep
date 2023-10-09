@@ -33,7 +33,7 @@ So you want to get hired as a PM! Cool, welcome to the club. Seriously, it feels
 
 First, [ProductHired's Open Product Management repo](https://github.com/ProductHired/open-product-management) is a "curated list of product management advice for technical people" with an insane list of resources.
 
-Second, [The Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) does a great job explaining the logistics from start to end of the actual interview (along with providing helpful resources on algorithms, etc.) **I'm not going to explain the actual interview process, and this link does it much better than I could ever. Please refer to as necessary.**
+Second, [The Tech Interview Handbook]([https://yangshun.github.io/tech-interview-handbook/introduction](https://github.com/yangshun/tech-interview-handbook)) does a great job explaining the logistics from start to end of the actual interview (along with providing helpful resources on algorithms, etc.) **I'm not going to explain the actual interview process, and this link does it much better than I could ever. Please refer to as necessary.**
 
 - [Getting a gig](https://github.com/cassidoo/getting-a-gig) -- great overview with real advice on "the search"
 - [Guide for getting a gig in product management as a tech major.](https://github.com/msmanek/getting-a-gig-pm-edition)
